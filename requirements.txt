@@ -25,7 +25,7 @@ aiodns>=3.0.0
 
 # For testing
 pytest>=7.2.0
-pytest-asyncio>=0.20.2
+pytest-asyncio>=1.4.1
 
 # Data processing and analysis
 statsmodels>=0.14.1
