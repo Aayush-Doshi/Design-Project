@@ -17,7 +17,7 @@ scikit-learn>=1.1.3
 
 # For visualization (if creating local visualizations)
 matplotlib>=3.6.2
-seaborn>=0.12.1
+seaborn>=0.13.2
 
 # For async operations
 aiohttp>=3.8.3
