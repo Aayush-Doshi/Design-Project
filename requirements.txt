@@ -28,7 +28,7 @@ pytest>=7.2.0
 pytest-asyncio>=0.20.2
 
 # Data processing and analysis
-statsmodels>=0.14.1
+statsmodels>=0.15.0
 # prophet>=1.1.2  # Requires C++ build tools & cmdstan; install separately if needed
 
 # Time series anomaly detection
